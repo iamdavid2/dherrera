@@ -1,0 +1,3 @@
+leanguaje: java
+jdk:
+	- openjdk8
